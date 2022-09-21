@@ -1,0 +1,23 @@
+{
+  "name": "cloud-config-js-client",
+  "version": "1.0.0",
+  "description": "Libreria para conectar a cloud config js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderPadron/cloud-config-js-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexanderPadron/cloud-config-js-client/issues"
+  },
+  "homepage": "https://github.com/AlexanderPadron/cloud-config-js-client#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
